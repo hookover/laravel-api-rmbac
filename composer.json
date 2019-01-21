@@ -1,0 +1,17 @@
+{
+    "name": "hookover\/laravel-api-rmbac",
+    "description": "Laravel Api菜单角色权限管理包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hookover",
+            "email": "hookover@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hookover\\LaravelApiRmbac\\": "src"
+        }
+    }
+}
