@@ -13,5 +13,12 @@
         "psr-4": {
             "Hookover\\LaravelApiRmbac\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hookover\\LaravelApiRmbac\\ServiceProvider"
+            ]
+        }
     }
 }
